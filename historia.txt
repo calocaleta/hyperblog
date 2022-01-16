@@ -1,5 +1,5 @@
 Esta es la historia de Carlos
 
-Carlos tiene 38 años
+Carlos tiene 39 años
 
-Programa en VB 6.0
+Programa en VB 6.0, PHP y Ruby
